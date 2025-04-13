@@ -1,0 +1,27 @@
+name: .NET CI
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0'
+
+      - name: Restore dependencies
+        run: dotnet restore AuthSystem/AuthSystem.sln
+
+      - name: Build project
+        run: dotnet build AuthSystem/AuthSystem.sln --configuration Release --no-restore
+
+      - name: Run tests
+        run: dotnet test AuthSystem/AuthSystem.sln --no-restore --verbosity normal
