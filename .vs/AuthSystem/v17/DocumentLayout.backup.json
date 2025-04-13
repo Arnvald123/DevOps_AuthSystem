@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|c:\\users\\nagre\\source\\repos\\authsystem\\authsystem\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|c:\\users\\nagre\\source\\repos\\authsystem\\authsystem\\passwordsetupwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\passwordsetupwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|c:\\users\\nagre\\source\\repos\\authsystem\\authsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|c:\\users\\nagre\\source\\repos\\authsystem\\authsystem\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|c:\\users\\nagre\\source\\repos\\authsystem\\authsystem\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|c:\\users\\nagre\\source\\repos\\authsystem\\authsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|c:\\users\\nagre\\source\\repos\\authsystem\\authsystem\\passwordsetupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\passwordsetupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|c:\\users\\nagre\\source\\repos\\authsystem\\authsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|c:\\users\\nagre\\source\\repos\\authsystem\\authsystem\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|c:\\users\\nagre\\source\\repos\\authsystem\\authsystem\\adduserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\adduserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|c:\\users\\nagre\\source\\repos\\authsystem\\authsystem\\adduserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\adduserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|c:\\users\\nagre\\source\\repos\\authsystem\\authsystem\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|c:\\users\\nagre\\source\\repos\\authsystem\\authsystem\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|c:\\users\\nagre\\source\\repos\\authsystem\\authsystem\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\AssemblyInfo.cs",
+              "RelativeToolTip": "AuthSystem\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:03:25.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddUserWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\AddUserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\AddUserWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\AddUserWindow.xaml.cs",
+              "RelativeToolTip": "AuthSystem\\AddUserWindow.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:08:29.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddUserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\AddUserWindow.xaml",
+              "RelativeDocumentMoniker": "AuthSystem\\AddUserWindow.xaml",
+              "ToolTip": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\AddUserWindow.xaml",
+              "RelativeToolTip": "AuthSystem\\AddUserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T19:08:16.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\App.xaml",
+              "RelativeDocumentMoniker": "AuthSystem\\App.xaml",
+              "ToolTip": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\App.xaml",
+              "RelativeToolTip": "AuthSystem\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T19:00:27.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PasswordSetupWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\PasswordSetupWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\PasswordSetupWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\PasswordSetupWindow.xaml.cs",
+              "RelativeToolTip": "AuthSystem\\PasswordSetupWindow.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:38:39.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordSetupWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\PasswordSetupWindow.xaml",
+              "RelativeDocumentMoniker": "AuthSystem\\PasswordSetupWindow.xaml",
+              "ToolTip": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\PasswordSetupWindow.xaml",
+              "RelativeToolTip": "AuthSystem\\PasswordSetupWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T18:38:22.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\UserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\UserWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\UserWindow.xaml.cs",
+              "RelativeToolTip": "AuthSystem\\UserWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:38:57.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\UserWindow.xaml",
+              "RelativeDocumentMoniker": "AuthSystem\\UserWindow.xaml",
+              "ToolTip": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\UserWindow.xaml",
+              "RelativeToolTip": "AuthSystem\\UserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T17:38:37.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "AuthSystem\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBcAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:37:58.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "AuthSystem\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\AdminWindow.xaml",
+              "RelativeToolTip": "AuthSystem\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T17:37:41.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\AuthManager.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\AuthManager.cs",
+              "RelativeToolTip": "AuthSystem\\AuthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:32:36.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\User.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\User.cs",
+              "ToolTip": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\User.cs",
+              "RelativeToolTip": "AuthSystem\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:31:51.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AuthSystem\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\MainWindow.xaml",
+              "RelativeToolTip": "AuthSystem\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T17:31:03.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nagre\\source\\repos\\AuthSystem\\AuthSystem\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AuthSystem\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwFYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:31:01.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

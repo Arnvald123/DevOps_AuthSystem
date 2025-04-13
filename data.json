@@ -1,0 +1,20 @@
+[
+  {
+    "Username": "ADMIN",
+    "PasswordHash": "",
+    "IsAdmin": true,
+    "IsBlocked": false
+  },
+  {
+    "Username": "Nazar",
+    "PasswordHash": "",
+    "IsAdmin": false,
+    "IsBlocked": false
+  },
+  {
+    "Username": "Petro",
+    "PasswordHash": "",
+    "IsAdmin": false,
+    "IsBlocked": true
+  }
+]
