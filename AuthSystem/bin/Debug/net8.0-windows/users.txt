@@ -1,8 +1,9 @@
-ADMIN,9a4fb333fe1d8e988ccd9a7e70d39cd21d5bfeba27cb3514df7be48df7f14c88,True,False,True
-Nazar,0e0d4a6e3b5033215651ad673e1d8e4de86561559ba969e1684670ab53ad0a7b,False,False,True
+ADMIN,36,True,False,True
+Nazar,37,False,False,True
 Petro,,False,True,False
 Прокопенко,,False,True,False
 Михась,d872cefe59875fd7198411abd11f594c71c368df63efd1e536b7d64b1a9c6b7d,False,False,False
-Кріт,,False,False,False
-Андрій,,False,True,False
+Кріт,,False,True,False
+Андрій,,False,False,False
 Афоній,,False,False,False
+Амброс,,False,False,False

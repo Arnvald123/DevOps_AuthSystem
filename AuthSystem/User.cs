@@ -10,11 +10,28 @@
 
         public static string HashPassword(string password)
         {
-            using (var sha256 = System.Security.Cryptography.SHA256.Create())
+            if (string.IsNullOrWhiteSpace(password))
             {
-                var hashedBytes = sha256.ComputeHash(System.Text.Encoding.UTF8.GetBytes(password));
-                return System.BitConverter.ToString(hashedBytes).Replace("-", "").ToLower();
+                throw new ArgumentException("Пароль не може бути пустим.");
             }
+
+            double numericValue = ConvertPasswordToNumber(password);
+            double hashValue = 5.0 * Math.Log(numericValue); // Формула a * ln(x)
+
+            long integerHashValue = (long)hashValue; // Переведення у ціле число
+            return integerHashValue.ToString("X"); // Шістнадцятковий формат
+        }
+
+
+        private static double ConvertPasswordToNumber(string password)
+        {
+            double numericValue = 0;
+            foreach (char c in password)
+            {
+                numericValue += c * c;
+            }
+            return numericValue;
         }
     }
 }
+

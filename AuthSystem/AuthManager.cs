@@ -9,6 +9,21 @@ namespace AuthSystem.Managers
     public class AuthManager
     {
         private static readonly string FilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "users.txt");
+        private static readonly string LogFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "registration_log.txt");
+
+        public static void LogAction(string username, string action)
+        {
+            if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(action))
+                return;
+
+            if (!File.Exists(LogFilePath)) // Якщо файл ще не створений
+            {
+                File.WriteAllText(LogFilePath, "Дата і час, Користувач, Дія\n"); // Додаємо заголовок до файлу
+            }
+
+            string logEntry = $"{DateTime.Now}, {username}, {action}";
+            File.AppendAllText(LogFilePath, logEntry + Environment.NewLine); // Додаємо запис до файлу
+        }
 
         public static List<User> LoadUsers()
         {

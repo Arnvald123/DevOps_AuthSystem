@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\nagre\source\repos\AuthSystem\AuthSystem\App.xaml
-51687969887
+6-1390476278
 
-10-1692894716
+12-47869261
 1991837095769
-AddUserWindow.xaml;AdminWindow.xaml;MainWindow.xaml;PasswordSetupWindow.xaml;UserWindow.xaml;
+AboutWindow.xaml;AddUserWindow.xaml;AdminWindow.xaml;MainWindow.xaml;PasswordSetupWindow.xaml;UserWindow.xaml;
 
 False
 

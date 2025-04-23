@@ -28,3 +28,7 @@ C:\Users\nagre\source\repos\AuthSystem\AuthSystem\obj\Debug\net8.0-windows\Passw
 C:\Users\nagre\source\repos\AuthSystem\AuthSystem\obj\Debug\net8.0-windows\PasswordSetupWindow.g.cs
 C:\Users\nagre\source\repos\AuthSystem\AuthSystem\obj\Debug\net8.0-windows\AddUserWindow.baml
 C:\Users\nagre\source\repos\AuthSystem\AuthSystem\obj\Debug\net8.0-windows\AddUserWindow.g.cs
+C:\Users\nagre\source\repos\AuthSystem\AuthSystem\obj\Debug\net8.0-windows\AuthSystem_Content.g.cs
+C:\Users\nagre\source\repos\AuthSystem\AuthSystem\obj\Debug\net8.0-windows\AuthSystem.sourcelink.json
+C:\Users\nagre\source\repos\AuthSystem\AuthSystem\obj\Debug\net8.0-windows\AboutWindow.baml
+C:\Users\nagre\source\repos\AuthSystem\AuthSystem\obj\Debug\net8.0-windows\AboutWindow.g.cs

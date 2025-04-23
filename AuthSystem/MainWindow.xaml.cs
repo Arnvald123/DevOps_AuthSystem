@@ -9,7 +9,6 @@ namespace AuthSystem
     public partial class MainWindow : Window
     {
         private List<User> users;
-
         public MainWindow()
         {
             InitializeComponent();
@@ -51,7 +50,6 @@ namespace AuthSystem
                 return; // ВИХІД, щоб не рахувати спробу як невдалу!
             }
 
-
             if (user.PasswordHash != User.HashPassword(password))
             {
                 failedAttempts++;
@@ -66,6 +64,9 @@ namespace AuthSystem
             }
 
             MessageBox.Show($"Вхід успішний! Вітаємо, {username}");
+
+            // Логування успішного входу
+            AuthManager.LogAction(username, "Успішний вхід у систему");
 
             if (user.IsAdmin)
             {
@@ -82,6 +83,16 @@ namespace AuthSystem
         }
 
 
+        private void About_Click(object sender, RoutedEventArgs e)
+        {
+            AboutWindow aboutWindow = new AboutWindow();
+            aboutWindow.ShowDialog();
+        }
+
+        private void Exit_Click(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
 
 
     }

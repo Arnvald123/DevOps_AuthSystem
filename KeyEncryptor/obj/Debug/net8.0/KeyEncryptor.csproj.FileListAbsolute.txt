@@ -1,0 +1,15 @@
+C:\Users\nagre\source\repos\AuthSystem\KeyEncryptor\bin\Debug\net8.0\KeyEncryptor.exe
+C:\Users\nagre\source\repos\AuthSystem\KeyEncryptor\bin\Debug\net8.0\KeyEncryptor.deps.json
+C:\Users\nagre\source\repos\AuthSystem\KeyEncryptor\bin\Debug\net8.0\KeyEncryptor.runtimeconfig.json
+C:\Users\nagre\source\repos\AuthSystem\KeyEncryptor\bin\Debug\net8.0\KeyEncryptor.dll
+C:\Users\nagre\source\repos\AuthSystem\KeyEncryptor\bin\Debug\net8.0\KeyEncryptor.pdb
+C:\Users\nagre\source\repos\AuthSystem\KeyEncryptor\obj\Debug\net8.0\KeyEncryptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagre\source\repos\AuthSystem\KeyEncryptor\obj\Debug\net8.0\KeyEncryptor.AssemblyInfoInputs.cache
+C:\Users\nagre\source\repos\AuthSystem\KeyEncryptor\obj\Debug\net8.0\KeyEncryptor.AssemblyInfo.cs
+C:\Users\nagre\source\repos\AuthSystem\KeyEncryptor\obj\Debug\net8.0\KeyEncryptor.csproj.CoreCompileInputs.cache
+C:\Users\nagre\source\repos\AuthSystem\KeyEncryptor\obj\Debug\net8.0\KeyEncryptor.sourcelink.json
+C:\Users\nagre\source\repos\AuthSystem\KeyEncryptor\obj\Debug\net8.0\KeyEncryptor.dll
+C:\Users\nagre\source\repos\AuthSystem\KeyEncryptor\obj\Debug\net8.0\refint\KeyEncryptor.dll
+C:\Users\nagre\source\repos\AuthSystem\KeyEncryptor\obj\Debug\net8.0\KeyEncryptor.pdb
+C:\Users\nagre\source\repos\AuthSystem\KeyEncryptor\obj\Debug\net8.0\KeyEncryptor.genruntimeconfig.cache
+C:\Users\nagre\source\repos\AuthSystem\KeyEncryptor\obj\Debug\net8.0\ref\KeyEncryptor.dll

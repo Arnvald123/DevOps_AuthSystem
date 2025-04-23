@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthSystem", "AuthSystem\AuthSystem.csproj", "{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyEncryptor", "KeyEncryptor\KeyEncryptor.csproj", "{3318C9F7-C5DA-4B87-93C8-EB16EF3160EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B632CAE-54B0-451B-B6DB-AAA4561A51DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3318C9F7-C5DA-4B87-93C8-EB16EF3160EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3318C9F7-C5DA-4B87-93C8-EB16EF3160EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3318C9F7-C5DA-4B87-93C8-EB16EF3160EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3318C9F7-C5DA-4B87-93C8-EB16EF3160EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
