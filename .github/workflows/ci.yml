@@ -20,6 +20,9 @@ jobs:
       - name: Restore dependencies
         run: dotnet restore AuthSystem.sln
 
+      - name: Clean project
+        run: dotnet clean AuthSystem.sln
+
       - name: Build project
         run: dotnet build AuthSystem.sln --configuration Release --no-restore /p:EnableWindowsTargeting=true
 
@@ -29,9 +32,17 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Verify secrets
+        run: |
+          if [ -z "${{ secrets.SSH_KEY }}" ] || [ -z "${{ secrets.HOST }}" ] || [ -z "${{ secrets.USERNAME }}" ]; then
+            echo "Missing SSH_KEY, HOST, or USERNAME secret."
+            exit 1
+          fi
 
       - name: Set up SSH
         run: |
@@ -40,6 +51,10 @@ jobs:
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan -H ${{ secrets.HOST }} >> ~/.ssh/known_hosts
 
+      - name: Test SSH connection
+        run: |
+          ssh -T ${{ secrets.USERNAME }}@${{ secrets.HOST }}
+
       - name: Deploy via SSH
         run: |
-          ssh ${{ secrets.USERNAME }}@${{ secrets.HOST }} 'bash ~/deploy.sh'
+          ssh ${{ secrets.USERNAME }}@${{ secrets.HOST }} "cd ${{ secrets.DEPLOY_PATH }} && bash deploy.sh"
