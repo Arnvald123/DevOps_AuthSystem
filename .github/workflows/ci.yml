@@ -39,8 +39,8 @@ jobs:
 
       - name: Verify secrets
         run: |
-          if [ -z "${{ secrets.SSH_KEY }}" ] || [ -z "${{ secrets.HOST }}" ] || [ -z "${{ secrets.USERNAME }}" ]; then
-            echo "Missing SSH_KEY, HOST, or USERNAME secret."
+          if [ -z "${{ secrets.SSH_KEY }}" ] || [ -z "${{ secrets.HOST }}" ] || [ -z "${{ secrets.USERNAME }}" ] || [ -z "${{ secrets.DEPLOY_PATH }}" ]; then
+            echo "Missing SSH_KEY, HOST, USERNAME, or DEPLOY_PATH secret."
             exit 1
           fi
 
